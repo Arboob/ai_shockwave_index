@@ -3,3 +3,4 @@ pandas
 plotly
 dash
 gunicorn
+dash-bootstrap-components
